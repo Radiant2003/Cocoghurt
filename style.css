@@ -98,3 +98,9 @@ a:hover {
 .card:hover {
   bottom: 2px;
 }
+
+@media (max-width:520px) {
+  .container {
+    display: block;
+  }
+}
